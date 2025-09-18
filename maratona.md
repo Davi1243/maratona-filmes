@@ -15,3 +15,6 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] A busca das Fadas
 - [ ] O Caminho do Abismo
+- [ ] Harry potter 1
+- [ ] Trolls
+
